@@ -6,4 +6,5 @@ To play the game, download the files and run the main.py file.
 
 Controls:
 Space - To Jump
+
 Enter - To Pause
