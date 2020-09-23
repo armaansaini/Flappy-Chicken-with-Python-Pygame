@@ -1,0 +1,20 @@
+This is an indie game based on the famous game, 'Flappy Bird'.
+
+All art and the background music are taken from the website,
+www.opengameart.com.
+
+Art By:
+
+#Kenney
+Website : www.kenney.nl
+
+#bevouliin.com
+Website : www.bevouliin.com
+
+#sujit1717
+Website : www.unluckystudio.com
+
+Music By:
+
+#TinyWorlds
+Website : www.tinyworlds.org
